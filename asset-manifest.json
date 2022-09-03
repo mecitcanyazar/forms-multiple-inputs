@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/forms-multiple-inputs/static/css/main.fa3f6c03.css",
+    "main.js": "/forms-multiple-inputs/static/js/main.348713f8.js",
+    "index.html": "/forms-multiple-inputs/index.html",
+    "main.fa3f6c03.css.map": "/forms-multiple-inputs/static/css/main.fa3f6c03.css.map",
+    "main.348713f8.js.map": "/forms-multiple-inputs/static/js/main.348713f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa3f6c03.css",
+    "static/js/main.348713f8.js"
+  ]
+}
